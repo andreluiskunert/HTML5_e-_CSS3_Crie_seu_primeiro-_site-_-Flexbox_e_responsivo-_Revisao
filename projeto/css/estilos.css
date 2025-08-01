@@ -1,0 +1,14 @@
+marquee {
+    background-color: aqua;
+    color: blue;
+    font: optional;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: 35px;
+}
+h1{
+    color: black;
+    background-color: azure;
+    font-weight: 200;
+
+}
