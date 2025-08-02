@@ -13,13 +13,16 @@
 <link
     href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
     rel="stylesheet">
+<header>
+    <Marquee> Aqui irei cria minha FrontPage </Marquee>
+
+</header>
 
 <body>
-    <marquee> Minha FrontPage</marquee>
     <!--navbar-->
     <header id="navbar">
-        <img src="img/logo.png" alt="minha_logo" width="50px" height="50px">
-        <h2> ALKTECNO</h2>
+        <img src="img/logo.png" alt="minha_logo">
+        <h1> ALKTECNO</h1>
         <Nav>
             <ul id="navbar-list">
                 <li> <a href="#">Sobre</a></li>
@@ -33,7 +36,7 @@
 
     <main>
         <!-- Banner inicio-->
-        <div id="main-banner">
+        <div id="banner-info">
             <div id="banner-info">
                 <h1> Andre Luis Kunert</h1>
                 <img src="img/perfil.jpeg" alt="banner01">
@@ -44,9 +47,11 @@
         <!--about-->
         <section id="about-section">
             <h2>Quem somos </h2>
-            <p>Sou um profissional dedicado, com experiência em produção industrial e formação técnica em Informática.
-                Estou em formação em Desenvolvimento Full Stack, com foco prático voltado ao mercado.
-                Tenho facilidade de aprendizado, gosto de desafios e sou comprometido com resultados.</p>
+    <p> Sou um profissional dedicado, com sólida experiência na área de produção industrial e formação técnica em Informática. 
+        Ao longo da minha trajetória, realizei diversos cursos na área de tecnologia, incluindo montagem e manutenção de computadores, 
+        web design e desenvolvimento de sistemas. Atualmente, estou cursando graduação em Desenvolvimento Full Stack, 
+        com foco prático e voltado para o mercado de trabalho. Tenho facilidade de aprendizado, 
+        gosto de desafios e estou sempre comprometido com meu crescimento profissional e com a entrega de resultados.</p>
 
         </section>
         <!--/about-->
@@ -86,8 +91,8 @@
     <!--/Skills-->
     <!--Jobs-->
     <section id="jobs-section">
-        <h2> Veja meus últimos cursos :</h2>
-        <p>Aqui estão os meus cursos mais recentes, para ver todos <a
+        <h2> Veja meus últimos trabalhos:</h2>
+        <p>Aqui estão os meus trabalhos mais recentes, para ver todos <a
                 href="https://github.com/andreluiskunert?tab=repositories"> meu github</a></p>
         <div class="job-container">
             <div class="job-box proj1"></div>
@@ -116,7 +121,8 @@
         <p> Desenvolvido por <span class="detail">responsavél Andre'Luis Kunert_2025</span></p>
     </footer>
     <!--/footer-->
-    <marquee> Minha FrontPage</marquee>
 </body>
+
+<Marquee> Aqui irei cria minha FrontPage </Marquee>
 
 </html>
